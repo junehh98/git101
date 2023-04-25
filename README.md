@@ -1,2 +1,2 @@
-# git101
-prep for teaching git
+# Git 101
+Preping for teaching Git and GitHub
